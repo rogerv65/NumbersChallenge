@@ -1,0 +1,51 @@
+body{
+    background-color: black
+}
+
+div{
+    text-align: center;
+}
+
+
+h1{
+    color:antiquewhite  
+}
+h1{
+    text-align: center;
+}
+h1{
+    font-family: 'Trebuchet MS';
+}
+h1{
+    font-size: 60px;
+}
+
+
+h4{
+    color: antiquewhite
+}
+h4{
+    text-align: center;
+}
+h4{
+    font-family: 'Georgia'; 
+}
+h4{
+    font-size: 30px;
+}
+
+
+p{
+    color:antiquewhite
+}
+p{
+    text-align: center;
+}
+p{
+    font-size: 30px
+}
+
+
+button{
+    font-size: 25px;
+}
